@@ -1,3 +1,10 @@
+> [!NOTE]
+> This is my fork of MonsGeek/qmk_firmware with some little changes to the M1 V5 VIA keyboard firmware.
+> Changes:
+> - removed charging indicator (green FN key)
+>
+
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
