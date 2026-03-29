@@ -1,3 +1,8 @@
+> [!NOTE]
+> This is my fork of MonsGeek/qmk_firmware with some little changes to the monsgeek M1-V5-VIA keyboard firmware. 
+> the changes are inside the wireless branch
+>
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
