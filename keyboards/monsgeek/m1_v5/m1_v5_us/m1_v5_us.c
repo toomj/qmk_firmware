@@ -4,6 +4,7 @@
 #include QMK_KEYBOARD_H
 #include "wls/wls.h"
 #include "rgb_record/rgb_record.h"
+#include "unicode.h"
 
 #ifdef WIRELESS_ENABLE
 #    include "wireless.h"

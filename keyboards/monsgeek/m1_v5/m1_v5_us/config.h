@@ -1,6 +1,9 @@
 // Copyright 2024 yangzheng20003 (@yangzheng20003)
 // SPDX-License-Identifier: GPL-2.0-or-later
 
+// enable unicode
+#define UNICODE_SELECTED_MODES UNICODE_MODE_LINUX
+
 #pragma once
 
 #define USB_POWER_EN_PIN                    B1 // USB ENABLE pin
