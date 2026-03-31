@@ -1,6 +1,6 @@
 > [!NOTE]
-> This is my fork of MonsGeek/qmk_firmware with some little changes to the monsgeek M1-V5-VIA keyboard firmware. 
-> the changes are inside the wireless branch
+> This is my fork of MonsGeek/qmk_firmware with some little changes to the monsgeek M1-V5-VIA keyboard firmware.  
+> The changes are inside the wireless branch.  
 >
 
 # Quantum Mechanical Keyboard Firmware
